@@ -1,0 +1,150 @@
+.flex1,.flex2 {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.flex2{
+	margin-top:30px;
+}
+.s{
+	color:blue;
+}
+
+.container{
+	width:90%;
+	margin:auto;
+}
+.icon1 {
+	color:#3eaed2;
+	border:1px solid;
+	width:39px;
+	height:30px;
+	padding-top:15px;
+	padding-left:1px;
+	margin-left:169px;
+	margin-top:10px;
+	background-color:#92c0cf;
+	}
+	.icon2{
+	color:#d69217;
+	border:1px solid;
+	width:39px;
+	height:30px;
+	padding-top:10px;
+	padding-left:1px;
+	margin-left:170px;
+	margin-top:15px;
+	background-color:#dfcca8;
+}
+.icon3{
+	color:green;
+	border:1px solid;
+	width:39px;
+	height:30px;
+	padding-top:12px;
+	padding-left:2px;
+	margin-left:170px;
+	margin-top:15px;
+	background-color:lightgreen;
+}
+.icon4{
+	color:red;
+	border:1px solid;
+	width:39px;
+	height:30px;
+	padding-top:12px;
+	padding-left:2px;
+	margin-left:170px;
+	margin-top:10px;
+	background-color:#dab8b8;
+}
+.icon5{
+	color:purple;
+	border:1px solid;
+	width:39px;
+	height:30px;
+	padding-top:12px;
+	padding-left:2px;
+	margin-left:170px;
+	margin-top:10px;
+	background-color:violet;
+}
+.icon6{
+	color:pink;
+	border:1px solid;
+	width:39px;
+	height:30px;
+	padding-top:12px;
+	padding-left:2px;
+	margin-left:170px;
+	margin-top:10px;
+	background-color:#fc667d;
+}
+.card{
+	border-bottom:1px solid;
+	border-color:white;
+	background-color:#9e9e9e2e;
+	width:380px;
+	height:250px;
+	text-align:center;
+	
+}
+.card1 {
+	border-bottom-color:blue;
+}
+.card2 {
+	border-bottom-color:orange;
+}
+.card3 {
+	border-bottom-color:green;
+}
+.card4 {
+	border-bottom-color:red;
+}
+.card5 {
+	border-bottom-color:purple;
+}
+.card6 {
+	border-bottom-color:crimson;
+}
+
+.read1 {
+	color:blue;
+}
+
+.read2{
+	color:orange;
+}
+.read3{
+	color:green;
+}
+.read4{
+	color:red;
+}
+.read5{
+	color:purple;
+}
+.read6{
+	color:crimson;
+}
+
+
+
+.card1:hover {
+	background-color:blue;
+}
+.card2:hover{
+	background-color:orange;
+}
+.card3:hover{
+	background-color:green;
+}
+.card4:hover{
+	background-color:red;
+}
+.card5:hover{
+	background-color:purple;
+}
+.card6:hover{
+	background-color:pink;
+}
